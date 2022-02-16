@@ -1,28 +1,36 @@
-# Projeto_Modulo_4
 
-Projeto realizado para analisar as tendências do gasolina e etanol nos meses de junho e julho de 2021.
+# Projeto Módulo 4
 
-# Perguntas Respondidas no projeto
+Projeto final do módulo 4 do curso de analista de dados da Resilia. A proposta era fazer uma análise descritiva dos preços da gasolina e do etanol nos meses de junho e julho de 2021. Os dados foram retirados do site da ANP (Agência Nacional do Petróleo).
 
-1 -Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição? Qual o preço médio da gasolina e do etanol nesses dois meses?
-2 -Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
-3 -Qual o preço médio da gasolina e do etanol por estado?
-4 -Qual o município que possui o menor preço para a gasolina e para o etanol?
-5 -Qual o município que possui o maior preço para a gasolina e para o etanol?
-6 -Qual a região que possui o maior valor médio da gasolina?
-7- Qual a região que possui o menor valor médio do etanol?
-8 -Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
-9 -Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
 
-# Desenvolvedores do projeto
 
-1 - Gabriel Cincinato
-2 - Gabriela Antunes
-3 - Bruna Pereira
-4 - Harão Tavares
+## Perguntas respondidas pela análise
 
-# Fonte dos dados do projeto 
+- Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição? Qual o preço médio da gasolina e do etanol nesses dois meses?
+- Qual o preço médio da gasolina e do etanol nesses dois meses?
+- Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
+- Qual o preço médio da gasolina e do etanol por estado?
+- Qual o município que possui o menor preço para a gasolina e para o etanol?
+- Qual o município que possui o maior preço para a gasolina e para o etanol?
+- Qual a região que possui o maior valor médio da gasolina?
+- Qual a região que possui o menor valor médio do etanol?
+- Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
+- Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
 
-https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2021/2021-06-gasolina-etanol.csv
-https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2021/2021-07-gasolina-etanol.csv
+
+## Bases de dados
+
+[Junho](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2021/2021-06-gasolina-etanol.csv)
+
+[Julho](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2021/2021-07-gasolina-etanol.csv)
+
+
+## Autores
+
+- [@gabigarrafinha](https://github.com/gabigarrafinha)
+- [@gabrielcincinato](https://github.com/gabrielcincinato)
+- [@BrunaFPereira](https://github.com/BrunaFPereira)
+- [@hara0-tavares](https://github.com/hara0-tavares)
+
 
